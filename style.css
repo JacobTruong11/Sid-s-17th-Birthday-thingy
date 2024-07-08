@@ -1,0 +1,112 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.background-image-1 {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 1200px;
+    background: url(./rls\ sid.jpg)no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.background-image-2 {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 1200px;
+    background: url(./Two\ Sids.jpg)no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.background-image-3 {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 1200px;
+    background: url(./Hippie\ Sid.jpg)no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.background-image-4 {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 1200px;
+    background: url(./holy\ sid.jpg)no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.background-image-5 {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 1200px;
+    background: url(./danger\ sid.jpg)no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.background-image-6 {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 1200px;
+    background: url(./taco\ sid.jpg )no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.background-image-7 {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+    height: 1200px;
+    background: url(./Angry\ Sid.jpg )no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.background-image-8 {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 1200px;
+    background: url(./robotics\ sid.jpg )no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.background-image-9 {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+    height: 1200px;
+    background: url(./artistic\ interpretation\ sid\ .png)no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.text-background {
+    background-color: white;
+    width: 300px
+}
+
+h1, h3 { 
+    text-align: center;
+}
